@@ -1,7 +1,14 @@
 !di buat dari https://raw.githubusercontent.com/nextdns/piracy-blocklists/refs/heads/master/streaming-video
 !format block for addguard
 !1085 Line
-
+||tv1.nontondrama.my^
+||nonton.bid^
+||www.jadwalnonton.com^
+||jadwalnonton.com^
+||bebasnonton.online^
+||duniafilm21.net^
+||duniapeduli.xyz^
+||duniagames.co.id^
 ||01234movies.email^
 ||0123movie.stream^
 ||0123movie.ws^
