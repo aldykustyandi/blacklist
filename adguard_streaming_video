@@ -1,6 +1,14 @@
 !di buat dari https://raw.githubusercontent.com/nextdns/piracy-blocklists/refs/heads/master/streaming-video
 !format block for addguard
 !1085 Line
+||tv.cinemakaca21.asia^$
+||tv1.bioskopkita.asia^$
+||tv2.lebahfilm21.cc^$
+||tv1.cgvindo21.link^$
+||tv1.bluray21.link^$ 
+||tv1.nontonpro.asia^
+||tv1.layarxxi.net^
+||tv1.filmkita21.link^
 ||tv1.nontondrama.my^
 ||nonton.bid^
 ||www.jadwalnonton.com^
