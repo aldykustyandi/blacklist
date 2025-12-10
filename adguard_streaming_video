@@ -1,6 +1,7 @@
 !di buat dari https://raw.githubusercontent.com/nextdns/piracy-blocklists/refs/heads/master/streaming-video
 !format block for addguard
 !1085 Line
+||m-new.cinema21.co.id^$important
 ||tv.cinemakaca21.asia^$
 ||tv1.bioskopkita.asia^$
 ||tv2.lebahfilm21.cc^$
